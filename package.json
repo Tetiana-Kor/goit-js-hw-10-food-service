@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-plugin-nuke-dist": "^1.0.1"
   },
   "scripts": {
@@ -26,5 +27,5 @@
   "bugs": {
     "url": "https://github.com/Tetiana-Kor/goit-js-hw-10-food-service/issues"
   },
-  "homepage": "https://Tetiana-Kor/goit-js-hw-10-food-service"
+  "homepage": "https://Tetiana-Kor.github.io/goit-js-hw-10-food-service"
 }
